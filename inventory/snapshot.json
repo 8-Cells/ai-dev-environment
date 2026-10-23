@@ -1,0 +1,9 @@
+{
+  "snapshot_date": "2026-10-23",
+  "standalone_skills": 40,
+  "host_agents_skills": 25,
+  "codex_system_skills": 5,
+  "github_connection_at_snapshot": "confirmed",
+  "context7_connection_at_snapshot": "confirmed",
+  "hardware_validation": "not performed during environment setup"
+}

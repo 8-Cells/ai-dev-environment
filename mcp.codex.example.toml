@@ -1,0 +1,13 @@
+# Example only. Replace placeholders and merge selected blocks into current config.
+# Forward slashes in quoted Windows paths avoid TOML backslash escaping.
+# Do not copy credentials or the original machine's full configuration.
+
+[mcp_servers.serial-studio]
+command = "<PYTHON_ABSOLUTE_PATH>"
+args = ["<SERIAL_STUDIO_OFFICIAL_BRIDGE_ABSOLUTE_PATH>"]
+
+[mcp_servers.logic2]
+url = "http://127.0.0.1:10530"
+
+# Context7 and GitHub: reinstall through the official host plugin directory and
+# authenticate interactively. Their OAuth credentials do not belong in this file.

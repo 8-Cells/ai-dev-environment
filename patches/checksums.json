@@ -1,0 +1,17 @@
+[
+  {
+    "file": "ui-ux-pro-max/SKILL.md",
+    "original_sha256_lf": "ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
+    "adapted_sha256_lf": "b6209199161fd34dd38e3f1bd17778b96edf2e8605927e74b5b6689d35088a58"
+  },
+  {
+    "file": "baoyu-format-markdown/scripts/main.ts",
+    "original_sha256_lf": "56fb2abe0526487b9807f0b82a9bb397ec652fc286cacd5fd18e9e28bac7a46a",
+    "adapted_sha256_lf": "6f5d6a65557f4f4272d4002e7c3064ec92a58a209a8d0e4195a0c5b99a092ff2"
+  },
+  {
+    "file": "baoyu-format-markdown/scripts/autocorrect.ts",
+    "original_sha256_lf": "dd26a4547d268d08efc733491e73f72924e61e40b92bc01dc664fc3d3c4d2cb8",
+    "adapted_sha256_lf": "092edba5b879291d641ce711012bad944a79aeca5f056d036487e12bed1d35f4"
+  }
+]

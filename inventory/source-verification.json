@@ -1,0 +1,285 @@
+{
+  "scope": "SKILL.md only; accompanying files and original install commits are not proven by this check",
+  "results": [
+    {
+      "name": "brainstorming",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "61a7ef918652108c76a3fd01e02dd92d39996c6b46d4cb2819cbd03f6c45e46a",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "diagnosing-superpowers",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/diagnosing-superpowers/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/dispatching-parallel-agents/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "executing-plans",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/executing-plans/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "e4649e59880ef2643d1da128e3d607e87e3f969410d72095a5bf65811b6036dc",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/finishing-a-development-branch/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "receiving-code-review",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/receiving-code-review/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "requesting-code-review",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/requesting-code-review/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "subagent-driven-development",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/subagent-driven-development/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "ba41f697136cba88a7962d60c8e2f97488ba04a8688b1d0fbeb27f6953808e75",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "systematic-debugging",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/systematic-debugging/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "test-driven-development",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/test-driven-development/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "using-git-worktrees",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/using-git-worktrees/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "using-superpowers",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/using-superpowers/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "verification-before-completion",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/verification-before-completion/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "writing-plans",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/writing-plans/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "writing-skills",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/writing-skills/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "domain-modeling",
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/domain-modeling/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "grill-me",
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/grill-me/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "grill-with-docs",
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/engineering/grill-with-docs/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "grilling",
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/5beb35b040e3de97e54fa9e386d7e42d15c295c2/skills/productivity/grilling/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "find-skills",
+      "url": "https://raw.githubusercontent.com/vercel-labs/skills/a80e4c9d12d607631249d4d7d059f835d4b2f13a/skills/find-skills/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "can",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/can/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "902248a12ac10b8cefb192537de73535ae8c19d8e6482df4e54c66a203637262",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "eide",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/eide/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "e61c63b456a6702b5b62bde336cace1adc4c52d1af71ac726d7f47faf8737259",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "gcc",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/gcc/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "d8908c80113c483c8d0485a4d2fa137a38d9b6db31884cf619934e202f10b6a3",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "jlink",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/jlink/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "3208ac2f971b5a6953b307ad9021fd36a835fe2d9a5e3fe73a1573f021a08867",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "keil",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/keil/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "15be2ef497bf00bb6939a62b1b5d97d535bb75b442322e29f0b0a7ed35111edb",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "net",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/net/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "bb5a75fa15ee83cdd24fe6cc5ce66605a3c375f7a74acd8332f27bb4b1904193",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "openocd",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/openocd/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "3fac6ece22de3ba01a1ec15d18916f2f82a68a753db0b380d1535e33b939515b",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "probe-rs",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/probe-rs/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "11e9b6a5476678b7c6b23c0d0762792baee16f0275a0ad5e9828ffb2a9030715",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "serial",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/serial/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "beb7cdcaf3a247fd3ecb598291ad7f83a65ad7eba55110c136953316c587585c",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "ssh",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/ssh/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "1db43a7ec9104be77a4ca7d23ab8f614d74c01df2ab1104700d96462fc531c93",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "terminal",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/terminal/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "93fdc326ded7d08fcaead7b15bfee5e49ab88660d6dd48313b3b3299f4d486fc",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "workflow",
+      "url": "https://raw.githubusercontent.com/zhinkgit/embeddedskills/0e2fb630e1106cd2868abd250c45a159d1e29ba8/workflow/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "5187fa1d3580f1fd19f96e114f0f3a0ad87d4000aa03c76c64f2c3c90a3e5e84",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "unity-ceedling-integration",
+      "url": "https://raw.githubusercontent.com/easyzoom/aix-skills/bb4c9bf475be49885425e7d48dc4db03b6e93d8b/skills/unity-ceedling-integration/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "2e1fe6f263a97a3f74b657b4940fa5b0a718b0595034165f7b8c17db6504d859",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "python-code-style",
+      "url": "https://raw.githubusercontent.com/wshobson/agents/0874a27b17a22e2b7c2e2bcd725768e0803cad06/plugins/python-development/skills/python-code-style/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "82699eefa7996bf06bbf85219f547eae0140a181ee3699444e2cbd665b7caba7",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "python-testing-patterns",
+      "url": "https://raw.githubusercontent.com/wshobson/agents/0874a27b17a22e2b7c2e2bcd725768e0803cad06/plugins/python-development/skills/python-testing-patterns/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "a1020718f31629c2a5b20731cad1804dbb81b18800495c5cebdf16e6cac9c175",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "frontend-design",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "theme-factory",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/theme-factory/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "url": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/28327f2f214d31bbd7555ed0c012a5df6484ed96/.claude/skills/ui-ux-pro-max/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "baoyu-format-markdown",
+      "url": "https://raw.githubusercontent.com/jimliu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/skills/baoyu-format-markdown/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "39bd9eeb5373365c84ac139b85a11311eab57710707e54b101e41085636b56bb",
+      "matches_installed_manifest_lf": true
+    },
+    {
+      "name": "baoyu-markdown-to-html",
+      "url": "https://raw.githubusercontent.com/jimliu/baoyu-skills/1567581c26ec29f4216c6e6835415bf30343b0e3/skills/baoyu-markdown-to-html/SKILL.md",
+      "status": "verified",
+      "upstream_manifest_sha256": "f4a5bb1697f9387557897a9c58b6406765728089a8d84cfbb6c40a93c3d136f7",
+      "matches_installed_manifest_lf": true
+    }
+  ]
+}

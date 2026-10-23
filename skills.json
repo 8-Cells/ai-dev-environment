@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "scope": "user-global",
+  "ref_policy": "Pinned upstream baseline for restoration; original installation revisions were not recorded. Verify upstream manifests and local patches before using.",
+  "skills": [
+    {
+      "name": "brainstorming",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/brainstorming",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "61a7ef918652108c76a3fd01e02dd92d39996c6b46d4cb2819cbd03f6c45e46a",
+      "local_adaptation": false
+    },
+    {
+      "name": "diagnosing-superpowers",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/diagnosing-superpowers",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
+      "local_adaptation": false
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/dispatching-parallel-agents",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+      "local_adaptation": false
+    },
+    {
+      "name": "executing-plans",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/executing-plans",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "e4649e59880ef2643d1da128e3d607e87e3f969410d72095a5bf65811b6036dc",
+      "local_adaptation": false
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/finishing-a-development-branch",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+      "local_adaptation": false
+    },
+    {
+      "name": "receiving-code-review",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/receiving-code-review",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+      "local_adaptation": false
+    },
+    {
+      "name": "requesting-code-review",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/requesting-code-review",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
+      "local_adaptation": false
+    },
+    {
+      "name": "subagent-driven-development",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/subagent-driven-development",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "ba41f697136cba88a7962d60c8e2f97488ba04a8688b1d0fbeb27f6953808e75",
+      "local_adaptation": false
+    },
+    {
+      "name": "systematic-debugging",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/systematic-debugging",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+      "local_adaptation": false
+    },
+    {
+      "name": "test-driven-development",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/test-driven-development",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
+      "local_adaptation": false
+    },
+    {
+      "name": "using-git-worktrees",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/using-git-worktrees",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+      "local_adaptation": false
+    },
+    {
+      "name": "using-superpowers",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/using-superpowers",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+      "local_adaptation": false
+    },
+    {
+      "name": "verification-before-completion",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/verification-before-completion",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+      "local_adaptation": false
+    },
+    {
+      "name": "writing-plans",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/writing-plans",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+      "local_adaptation": false
+    },
+    {
+      "name": "writing-skills",
+      "group": "superpowers",
+      "repository": "https://github.com/obra/superpowers",
+      "path": "skills/writing-skills",
+      "restore_ref": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
+      "local_adaptation": false
+    },
+    {
+      "name": "domain-modeling",
+      "group": "requirements",
+      "repository": "https://github.com/mattpocock/skills",
+      "path": "skills/engineering/domain-modeling",
+      "restore_ref": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+      "local_adaptation": false
+    },
+    {
+      "name": "grill-me",
+      "group": "requirements",
+      "repository": "https://github.com/mattpocock/skills",
+      "path": "skills/productivity/grill-me",
+      "restore_ref": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+      "local_adaptation": false
+    },
+    {
+      "name": "grill-with-docs",
+      "group": "requirements",
+      "repository": "https://github.com/mattpocock/skills",
+      "path": "skills/engineering/grill-with-docs",
+      "restore_ref": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+      "local_adaptation": false
+    },
+    {
+      "name": "grilling",
+      "group": "requirements",
+      "repository": "https://github.com/mattpocock/skills",
+      "path": "skills/productivity/grilling",
+      "restore_ref": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15",
+      "local_adaptation": false
+    },
+    {
+      "name": "find-skills",
+      "group": "discovery",
+      "repository": "https://github.com/vercel-labs/skills",
+      "path": "skills/find-skills",
+      "restore_ref": "a80e4c9d12d607631249d4d7d059f835d4b2f13a",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f",
+      "local_adaptation": false
+    },
+    {
+      "name": "can",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "can",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "902248a12ac10b8cefb192537de73535ae8c19d8e6482df4e54c66a203637262",
+      "local_adaptation": false
+    },
+    {
+      "name": "eide",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "eide",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "e61c63b456a6702b5b62bde336cace1adc4c52d1af71ac726d7f47faf8737259",
+      "local_adaptation": false
+    },
+    {
+      "name": "gcc",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "gcc",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "d8908c80113c483c8d0485a4d2fa137a38d9b6db31884cf619934e202f10b6a3",
+      "local_adaptation": false
+    },
+    {
+      "name": "jlink",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "jlink",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "3208ac2f971b5a6953b307ad9021fd36a835fe2d9a5e3fe73a1573f021a08867",
+      "local_adaptation": false
+    },
+    {
+      "name": "keil",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "keil",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "15be2ef497bf00bb6939a62b1b5d97d535bb75b442322e29f0b0a7ed35111edb",
+      "local_adaptation": false
+    },
+    {
+      "name": "net",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "net",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "bb5a75fa15ee83cdd24fe6cc5ce66605a3c375f7a74acd8332f27bb4b1904193",
+      "local_adaptation": false
+    },
+    {
+      "name": "openocd",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "openocd",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "3fac6ece22de3ba01a1ec15d18916f2f82a68a753db0b380d1535e33b939515b",
+      "local_adaptation": false
+    },
+    {
+      "name": "probe-rs",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "probe-rs",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "11e9b6a5476678b7c6b23c0d0762792baee16f0275a0ad5e9828ffb2a9030715",
+      "local_adaptation": false
+    },
+    {
+      "name": "serial",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "serial",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "beb7cdcaf3a247fd3ecb598291ad7f83a65ad7eba55110c136953316c587585c",
+      "local_adaptation": false
+    },
+    {
+      "name": "ssh",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "ssh",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "1db43a7ec9104be77a4ca7d23ab8f614d74c01df2ab1104700d96462fc531c93",
+      "local_adaptation": false
+    },
+    {
+      "name": "terminal",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "terminal",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "93fdc326ded7d08fcaead7b15bfee5e49ab88660d6dd48313b3b3299f4d486fc",
+      "local_adaptation": false
+    },
+    {
+      "name": "workflow",
+      "group": "embedded",
+      "repository": "https://github.com/zhinkgit/embeddedskills",
+      "path": "workflow",
+      "restore_ref": "0e2fb630e1106cd2868abd250c45a159d1e29ba8",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "5187fa1d3580f1fd19f96e114f0f3a0ad87d4000aa03c76c64f2c3c90a3e5e84",
+      "local_adaptation": false
+    },
+    {
+      "name": "unity-ceedling-integration",
+      "group": "embedded-tests",
+      "repository": "https://github.com/easyzoom/aix-skills",
+      "path": "skills/unity-ceedling-integration",
+      "restore_ref": "bb4c9bf475be49885425e7d48dc4db03b6e93d8b",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "2e1fe6f263a97a3f74b657b4940fa5b0a718b0595034165f7b8c17db6504d859",
+      "local_adaptation": false
+    },
+    {
+      "name": "python-code-style",
+      "group": "python",
+      "repository": "https://github.com/wshobson/agents",
+      "path": "plugins/python-development/skills/python-code-style",
+      "restore_ref": "0874a27b17a22e2b7c2e2bcd725768e0803cad06",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "10d398b884fe285dfeb098c6e2ed563e1083ea4522c3c4ef34e5e725129b493b",
+      "local_adaptation": false
+    },
+    {
+      "name": "python-testing-patterns",
+      "group": "python",
+      "repository": "https://github.com/wshobson/agents",
+      "path": "plugins/python-development/skills/python-testing-patterns",
+      "restore_ref": "0874a27b17a22e2b7c2e2bcd725768e0803cad06",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "b8de620ec467d9bc0b935bab2843e9a3a174427dfeefa556d69b82df9eb4127c",
+      "local_adaptation": false
+    },
+    {
+      "name": "frontend-design",
+      "group": "visual",
+      "repository": "https://github.com/anthropics/skills",
+      "path": "skills/frontend-design",
+      "restore_ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "b8009ae690dfa69edc7f08bb8715f32db8817112cfa4388741dbaf876c237df8",
+      "local_adaptation": false
+    },
+    {
+      "name": "theme-factory",
+      "group": "visual",
+      "repository": "https://github.com/anthropics/skills",
+      "path": "skills/theme-factory",
+      "restore_ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "7c765e6626bf61eca30224ceeb0da51ac003c7c2f1c1743ace9b3baa305ea632",
+      "local_adaptation": false
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "group": "ui",
+      "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "path": ".claude/skills/ui-ux-pro-max",
+      "restore_ref": "28327f2f214d31bbd7555ed0c012a5df6484ed96",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "2fbaaa2914c1582b161c93341ebfdb77e095d29ebb71bad40a784e5e111a06b5",
+      "local_adaptation": true
+    },
+    {
+      "name": "baoyu-format-markdown",
+      "group": "markdown",
+      "repository": "https://github.com/jimliu/baoyu-skills",
+      "path": "skills/baoyu-format-markdown",
+      "restore_ref": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "a8690ae5e05ddcc995247146cedc76f0aad634ad20eb860e367774058dda270e",
+      "local_adaptation": true
+    },
+    {
+      "name": "baoyu-markdown-to-html",
+      "group": "markdown",
+      "repository": "https://github.com/jimliu/baoyu-skills",
+      "path": "skills/baoyu-markdown-to-html",
+      "restore_ref": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+      "ref_provenance": "upstream HEAD observed during catalog creation; not recorded at original installation",
+      "installed_manifest_sha256": "b3f0f70a4aeea75d42b1e11b132973c9b523ebf4218df29ea58b32a0f86becd3",
+      "local_adaptation": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.local.*
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+work/
+config.toml
+auth.json
+credentials*
+*.token
